@@ -1,0 +1,64 @@
+Filtrando empleados por seguro SNP y por condicon ESTABLE
++--------------------------------------------------------------+
+|        Lista filtrada segun los parametros indicados         |
++--------------------------------------------------------------+
+
++------------------------------+----+-----+--------------------+
+|Apellido y Nombre             |Sexo|Hijos|Legajo              |
++------------------------------+----+-----+--------------------+
+|SALVADOR DIAZ, JENNY          |F   |0    |7008851ADHCP000     |
+|CABALLERO CARLOS              |M   |0    |7009991ABFGP000     |
+|DAVALOS VEGA, ARTURO          |M   |0    |7008251AOICP000     |
+|RIOS RAMOS, CARLOS            |M   |0    |7008255BHRCP000     |
+|SANTOS FALEN, ELIZABETH       |F   |0    |7004551AHRCP000     |
+|WAGNER PACCIONE, JANET        |F   |1    |7008361EHRCP000     |
+|TAVARA SOTO, DIANA            |F   |1    |7008264ADFGP000     |
+|MARCOS VALVERDE, FRANK        |M   |1    |7008264ADFGP002     |
+|QUIROZ LEON, PATRICIA         |F   |1    |7009261ABRCP000     |
+|CRUZ CAMINO, JANETH           |F   |0    |7008241AAXCP000     |
+|SALAS LLANOS, ABEL            |M   |0    |7008261ATRCP001     |
+|CASTRO JESSICA                |F   |7    |7008251BGTCP000     |
+|PACHECO MENCILLA, ORLANDO     |M   |0    |7008251BGTCP001     |
+|ZAPATA ORTIZ, MERCEDES        |F   |1    |7008244AZACP000     |
+|ROMERO CARDENAS, WENDY        |F   |5    |7008444AIICP000     |
+|ALCIDES ORTIZ, JUAN           |M   |0    |7008241HHRCP000     |
++------------------------------+----+-----+--------------------+
+Dinero total que se pago: $29400.00
+El promedio de sueldo pagados es: $490.00
+
++--------------------------+------------------------------+
+|Los empleados totales son:|60                            |
++--------------------------+------------------------------+
+
++--------------------------+------------------------------+
+|El personal sin hijos es: |CORNEJO MIGUEL ANGEL          |
+|El personal sin hijos es: |SALVADOR DIAZ, JENNY          |
+|El personal sin hijos es: |ACEVEDO CARHUAS, DAVID        |
+|El personal sin hijos es: |BUSTAMANTE JUAN               |
+|El personal sin hijos es: |CABALLERO CARLOS              |
+|El personal sin hijos es: |DAVALOS VEGA, ARTURO          |
+|El personal sin hijos es: |BALBI, ARMANDO                |
+|El personal sin hijos es: |RIOS RAMOS, CARLOS            |
+|El personal sin hijos es: |SANTOS FALEN, ELIZABETH       |
+|El personal sin hijos es: |RIOS RAMOS, JULIO             |
+|El personal sin hijos es: |QUINTANA RODRIGUEZ, PABLO     |
+|El personal sin hijos es: |MIRANDA PEREZ, BENJAMIN       |
+|El personal sin hijos es: |GARCIA LAZO, ROSSANA          |
+|El personal sin hijos es: |QUISPE PEREZ, DANIEL          |
+|El personal sin hijos es: |SANTANDER CRUZ, MILAGROS      |
+|El personal sin hijos es: |AGUIRRE ALZAMORA, BRIAN       |
+|El personal sin hijos es: |CARDENAS VILCA, CARLOS        |
+|El personal sin hijos es: |CRUZ CAMINO, JANETH           |
+|El personal sin hijos es: |SALAS LLANOS, ABEL            |
+|El personal sin hijos es: |DAVILA RAMIREZ, ETHEL         |
+|El personal sin hijos es: |PACHECO MENCILLA, ORLANDO     |
+|El personal sin hijos es: |ESPINO DAVALOS, MARCELA       |
+|El personal sin hijos es: |RODRIGUEZ VARGAS, ALVARO      |
+|El personal sin hijos es: |ROCCA DURAN, LUIS             |
+|El personal sin hijos es: |ALCIDES ORTIZ, JUAN           |
+|El personal sin hijos es: |BENITES PAREDES, ANGELICA     |
+|El personal sin hijos es: |CAMASCA, IAN STEVEN           |
+|El personal sin hijos es: |MENDEZ, SHIRLEY SUZANN        |
+|El personal sin hijos es: |AGUILERA, LADY JAZMIN         |
+|El personal sin hijos es: |DOMINGUEZ, ARLENKA            |
++--------------------------+------------------------------+
